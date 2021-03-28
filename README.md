@@ -26,20 +26,19 @@ yarn create next-app --example with-typescript-eslint-jest with-typescript-eslin
 
 Deploy it to the cloud with [Vercel](https://vercel.com/new?utm_source=github&utm_medium=readme&utm_campaign=next-example) ([Documentation](https://nextjs.org/docs/deployment)).
 
-
 Success! Created a45b.github.io at /Users/kamaldev/Workspace/a45b.github.io
 Inside that directory, you can run several commands:
 
-  yarn dev
-    Starts the development server.
+yarn dev
+Starts the development server.
 
-  yarn build
-    Builds the app for production.
+yarn build
+Builds the app for production.
 
-  yarn start
-    Runs the built app in production mode.
+yarn start
+Runs the built app in production mode.
 
 We suggest that you begin by typing:
 
-  cd a45b.github.io
-  yarn dev
+cd a45b.github.io
+yarn dev
